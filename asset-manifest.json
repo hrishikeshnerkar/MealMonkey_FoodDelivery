@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MealMonkey_FoodDelivery/static/css/main.d47d2fee.css",
+    "main.js": "/MealMonkey_FoodDelivery/static/js/main.d4d35c39.js",
+    "static/media/c3.png": "/MealMonkey_FoodDelivery/static/media/c3.55f83414f33f66456b35.png",
+    "static/media/fi1.png": "/MealMonkey_FoodDelivery/static/media/fi1.3f43e51b6058550d1f44.png",
+    "static/media/f1.png": "/MealMonkey_FoodDelivery/static/media/f1.c52686695ee9a5c4cd0d.png",
+    "static/media/logo.png": "/MealMonkey_FoodDelivery/static/media/logo.473ea2e1dc0536a1ab33.png",
+    "static/media/i1.png": "/MealMonkey_FoodDelivery/static/media/i1.3d9b129d2c5432c6f1fb.png",
+    "static/media/heroBg.png": "/MealMonkey_FoodDelivery/static/media/heroBg.c43c4862422e70d88698.png",
+    "static/media/delivery.png": "/MealMonkey_FoodDelivery/static/media/delivery.bf9130a0962fbe091abc.png",
+    "static/media/avatar.png": "/MealMonkey_FoodDelivery/static/media/avatar.68cdc4513e601d28a382.png",
+    "static/media/emptyCart.svg": "/MealMonkey_FoodDelivery/static/media/emptyCart.71ad17e692d71caa77c6c9351f84756b.svg",
+    "static/media/NotFound.svg": "/MealMonkey_FoodDelivery/static/media/NotFound.4e90bb93460bfd8d9e2c86b42ef91a4a.svg",
+    "index.html": "/MealMonkey_FoodDelivery/index.html",
+    "main.d47d2fee.css.map": "/MealMonkey_FoodDelivery/static/css/main.d47d2fee.css.map",
+    "main.d4d35c39.js.map": "/MealMonkey_FoodDelivery/static/js/main.d4d35c39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d47d2fee.css",
+    "static/js/main.d4d35c39.js"
+  ]
+}
